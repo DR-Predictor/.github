@@ -18,7 +18,7 @@ The progression of DR follows a well-defined clinical pathway, typically advanci
 
 Represents the earlier phase of the disease. It is characterized by a series of pathological changes within the existing retinal vasculature. As high blood sugar damages the small blood vessels, they begin to weaken and leak. This stage is further subdivided based on the severity and extent of these changes:
 
-1. **Mild NPDR**: This is the earliest detectable stage, defined by the presence of microaneurysms—small, balloon-like swellings in the retinal capillaries. At this point, vision is typically unaffected, and the primary clinical action is monitoring and patient education on glycemic control.
+1. **Mild NPDR**: This is the earliest detectable stage, defined by the presence of microaneurysms; small, balloon-like swellings in the retinal capillaries. At this point, vision is typically unaffected, and the primary clinical action is monitoring and patient education on glycemic control.
    
 2. **Moderate NPDR**: As the disease advances, the vascular damage becomes more pronounced. More blood vessels swell and may become blocked, impeding blood flow to parts of the retina. This stage may be associated with the appearance of other signs, such as dot-and-blot hemorrhages, hard exudates (lipid deposits from leaky vessels), and cotton wool spots, which indicate small areas of retinal ischemia.6 Patients may begin to experience blurry vision.
  
