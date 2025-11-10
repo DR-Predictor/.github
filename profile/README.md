@@ -2,7 +2,7 @@
 
 This organization contains source code for our Diabetic Retinopathy classification ML models, backend servers, and client software.
 
-## The Pathphysiology of Diabetic Retinopathy
+## The Pathophysiology of Diabetic Retinopathy
 
 Diabetic retinopathy (DR) is a highly specific microvascular complication of diabetes, characterized by progressive damage to the blood vessels of the retina, the light-sensitive tissue at the back of the eye.
 
